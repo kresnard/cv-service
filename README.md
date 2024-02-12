@@ -1,5 +1,10 @@
 # cv-service
 
+This service is not ready yet
+
+## Design Architechture
+Clean Design
+
 ## Requirements for Employee Profiles
 
 Companies need specific data about potential employees when considering job applications. This includes:
